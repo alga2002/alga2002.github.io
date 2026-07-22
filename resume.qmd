@@ -1,91 +1,99 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Aleph Souza's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Aleph Souza
+
+Data Science student and data analyst with experience in data visualization, automation, machine learning, and business intelligence.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-<!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
-| <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
+<a href="alephmosiah@gmail.com">YOUR_EMAIL_ADDRESS</a>
+| <a href="https://www.linkedin.com/in/alephsouza">LinkedIn</a>
+| <a href="https://github.com/alga2002">GitHub</a>
 </div>
 
 
-## Currently
+## Professional Summary
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Data Science student at Brigham Young University–Idaho with experience using R, Python, SQL, Power BI, Power Automate, and SharePoint. Experienced in data analysis, reporting, process automation, data quality, and machine learning. Fluent in Portuguese, English, and Spanish.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Expected 2026`
+__Brigham Young University–Idaho__, Rexburg, Idaho
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Bachelor of Science in Data Science
+- Minor in Statistics
+- Certificate in Machine Learning
 
 
+## Experience
 
-## Awards
+`January 2026 – Present`
+__Student Data and Research Analyst__, Brigham Young University–Idaho
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Developed automated workflows using Qualtrics, Power Automate, SharePoint, and Power BI.
+- Conducted data-quality audits in R and identified inaccuracies in institutional data.
+- Supported the development of an early-warning model used to identify students who may need additional assistance.
+- Created dashboards and reporting tools to support student-success programs.
 
 
-## Occupation
+`July 2025 – January 2026`
+__Data Quality Intern__, FamilySearch
 
-`1600`
-__Royal Mint__, London
+- Audited multilingual datasets containing thousands of records.
+- Created Power BI dashboards to monitor project progress and data quality.
+- Supported the migration of data workflows from DataFlux to Databricks.
+- Developed Python workflows to improve data-processing and reporting tasks.
 
-- Warden
-- Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## Projects
 
+### Grocery Price Intelligence
+
+- Designed a database and analytics system for tracking grocery prices across multiple stores.
+- Used MySQL, Python, Power BI, forecasting models, and automated data workflows.
+- Developed price comparisons, alerts, and purchasing insights for users.
+
+### Student Early-Warning Model
+
+- Helped develop a weekly machine-learning model that categorized students into risk levels.
+- Combined academic, referral, mentoring, and enrollment information.
+- Created Power BI reports to communicate results to program leaders.
+
+### AI Financial Assistant
+
+- Developed a financial tracking system using Python, Google Sheets, OpenAI tools, and Power BI.
+- Organized and analyzed household financial information across multiple users.
+
+
+## Technical Skills
+
+- Programming: Python, R, SQL
+- Data visualization: Power BI, ggplot2
+- Data tools: Excel, SharePoint, Power Automate, Qualtrics
+- Databases: MySQL, SQLite
+- Version control: Git and GitHub
+- Languages: Portuguese, English, Spanish
+
+
+## Additional Experience
+
+`Dates`
+__Teaching Assistant, Spreadsheet Analysis__, Brigham Young University–Idaho
+
+- Assisted students with spreadsheet analysis, Excel, and VBA.
+- Created practice materials and supported student learning.
+
+
+`Dates`
+__Report Manager__, REDI
+
+- Managed data and reporting across 16 counties in Idaho.
+- Built Power BI reports and supported automated data collection.
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2026 -->
