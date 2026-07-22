@@ -7,7 +7,7 @@ title: Aleph Souza's Resume
 Data Science student and data analyst with experience in data visualization, automation, machine learning, and business intelligence.
 
 <div id="webaddress">
-<a href="alephmosiah@gmail.com">YOUR_EMAIL_ADDRESS</a>
+<a href="alephmosiah@gmail.com">Gmail</a>
 | <a href="https://www.linkedin.com/in/alephsouza">LinkedIn</a>
 | <a href="https://github.com/alga2002">GitHub</a>
 </div>
@@ -80,14 +80,14 @@ __Data Quality Intern__, FamilySearch
 
 ## Additional Experience
 
-`Dates`
+`2024 - 2025`
 __Teaching Assistant, Spreadsheet Analysis__, Brigham Young University–Idaho
 
 - Assisted students with spreadsheet analysis, Excel, and VBA.
 - Created practice materials and supported student learning.
 
 
-`Dates`
+`2023 - 2024`
 __Report Manager__, REDI
 
 - Managed data and reporting across 16 counties in Idaho.
